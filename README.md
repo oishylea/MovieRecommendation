@@ -1,4 +1,4 @@
-  <p align="center"><img src="images/border.jpg" alt="Firebase Main Page" width="120%" /></p><br><br>
+  <p align="center"><img src="images/border.jpg" alt="Firebase Main Page" width="120%" /></p>
 
 # Movie Recommendation System 🎞️
 
@@ -20,6 +20,13 @@ Types :
 ### Project Architecture 📅
 
 Dataset -> Data processing -> Create model -> Web app -> Deploy
+
+## System Preview 📸
+
+Here are some previews of the system:<br>
+
+  <p align="center"><img src="images/batman.png" alt="Firebase Main Page" width="60%" /></p>
+  <p align="center"><img src="images/jurassic.png" alt="Firebase Main Page" width="60%" /></p>
 
 ### Reference
 [TMDB Website](https://www.themoviedb.org/)
